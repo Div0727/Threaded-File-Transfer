@@ -22,6 +22,7 @@ Server Side Output showing the thread download process from the server using 5 t
 ![Screenshot 2025-05-05 023750](https://github.com/user-attachments/assets/7a130384-a85a-4ed1-8742-01f674d855ff)
 
 Client Side Output showing the simultaneous client connections each connection sends a portion of the file, showing efficient transfer.
+
 ![Screenshot 2025-05-05 023722](https://github.com/user-attachments/assets/ae5acde8-aa45-43ee-b10a-cacc79075ba2)
 
 
